@@ -5,7 +5,7 @@ local table = {
   ["yba"] = 2809202155,
 }
 
-function places.return()
+function places.ret()
   return places.table
 end
 
